@@ -1,0 +1,4 @@
+// Style : Headless UI + Tailwind CSS
+// Frontend : React + TypeScript
+// Database : Firebase 
+// Server : Node.js + Express
